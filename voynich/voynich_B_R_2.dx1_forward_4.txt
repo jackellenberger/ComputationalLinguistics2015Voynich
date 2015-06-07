@@ -1,0 +1,30 @@
+ DTCO     CG      
+ GDCC     TG      
+ HSCC     OR      
+ OCCH     ZG      
+ ODCC     OE      
+ ODCC     TOR     
+ ODCG             
+ ODOE             
+ ODTO     E       
+ ODTO     R       
+ OETC     CCCG    
+ OHCC     CIIR    
+ OHCO     E       
+ OHOA     M       
+ OHOC     CO      
+ OHOE     THCG    
+ OHTC     OEG     
+ OHTO     DG      
+ OPOE             
+ OPOP     ZOR     
+ OPTC     G       
+ ORAK             
+ OTOR     G       
+ SCCO     R       
+ SCOE             
+ TCOA     E       
+ TCOR             
+ TCOR     OE      
+ TGDT     G       
+ TODC     CG      

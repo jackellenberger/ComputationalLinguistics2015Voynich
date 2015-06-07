@@ -1,0 +1,1058 @@
+                                     ADAM    
+                            AR       ADAM    
+                            GD       ADAM    
+                                     ADAR    
+                            SC       ADCG    
+                            [|       ADCG    
+                            S        ADZG    
+                                     AEAE    
+                            H        AEAK    
+                   O        H        AEAK    
+                                     AEAM    
+                                     AEOE    
+                            OD       AEOE    
+                            SC       AEOE    
+                                     AEOK    
+                            AR       AEOR    
+                   E        H        AEOR    
+                   O        H        AEOR    
+                            OD       AEOR    
+                            OPT      AEOR    
+                            TC       AEOR    
+                            H        AESG    
+                            OD       AETC    
+                            R        AETE    
+                            OD       AETG    
+                            OH       AFTK    
+                            RC       AHAM    
+                                     AHOE    
+                                     AHZG    
+                            R        AHZG    
+                            H        AIIN    
+                                     AIIR    
+                            ES       AIIR    
+                            GD       AIRG    
+                            PT       AIR[    
+                            ]        AIR[    
+                                     AKAK    
+                            D        AKAR    
+                            OE[      AK|]    
+                            EE       AMRG    
+                                     AMSG    
+                            OR       APZG    
+                                     ARAE    
+                            D        ARAE    
+                            H        ARAE    
+                            R        ARAE    
+                                     ARAK    
+                            D        ARAK    
+                            OF       ARAK    
+                            OH       ARAK    
+                            OP       ARAK    
+                                     ARAM    
+                            H        ARAM    
+                            R        ARAM    
+                                     ARAN    
+                                     ARAR    
+                            POE      ARAR    
+                                     ARCC    
+                                     AROE    
+                            E        AROE    
+                            PS       AROE    
+                            TD       AROE    
+                                     AROR    
+                            OD       AROR    
+                            POR      AROR    
+                            TC       AROR    
+                                     AR[|    
+                            OH       AR[|    
+                            HZ       ATTG    
+                                     AYOR    
+                            T[C|     A]DG    
+                            HC[O|    A]EG    
+                            GD[      A|]E    
+                            T        CADG    
+                            T        CAEG    
+                            OT       CAIL    
+                            OD       CCAE    
+                            T        CCAE    
+                            T        CCAM    
+                   G        D        CCCG    
+          O        G        D        CCCG    
+                   O        D        CCCG    
+                   OE       D        CCCG    
+          T        OE       D        CCCG    
+                   T        D        CCCG    
+                            O        CCCG    
+                            R        CCCG    
+                            S        CCCG    
+                            S        CCDG    
+                            T        CCDG    
+                   D        T        CCDG    
+                   GH       T        CCDG    
+                            SCD      CCFG    
+                            OED      CCGR    
+                            S        CCHG    
+                            T        CCHG    
+                   P        T        CCHG    
+                            D        CCOE    
+                   O        D        CCOE    
+                            H        CCOE    
+                   G        H        CCOE    
+                            O]E      CCOE    
+                            S        CCOE    
+                            SC       CCOE    
+                            T        CCOE    
+                   OP       T        CCOE    
+                            GD       CCOG    
+                            T        CCOG    
+                                     CCOR    
+                            OD       CCOR    
+                   T        OD       CCOR    
+                            T        CCOR    
+                   E        T        CCOR    
+                            S        CCRE    
+                   G        D        CCTG    
+                   OE       D        CCTG    
+                            H        CCTG    
+                                     CDAE    
+                            S        CDAE    
+                            T        CDAE    
+                            S        CDAK    
+                            T        CDAK    
+                            O        CDAM    
+                            S        CDAM    
+                            T        CDAM    
+                   OF       T        CDAM    
+                            TC       CDAM    
+                            O        CDAR    
+                            SC       CDAR    
+                            T        CDAR    
+                   S        C        CDCG    
+                   T        C        CDCG    
+                            S        CDCG    
+                            T        CDCG    
+                            S        CDOE    
+                            S        CDTG    
+                            SC       CDTG    
+                            T        CDTG    
+                            TO       CDTG    
+                            O        CDZG    
+                            S        CDZG    
+                   E        S        CDZG    
+                   OR       S        CDZG    
+                            T        CDZG    
+                   E        T        CDZG    
+          O        E        T        CDZG    
+                            T        CDZO    
+                            T        CEAE    
+                            S        CEAN    
+                            T        CFAE    
+                            T        CFAM    
+                            T        CFAN    
+                            T        CFTG    
+                            T        CFZG    
+                            S        CGDG    
+                            ESC      CHAE    
+                            TC       CHAK    
+                            T        CHAM    
+                            S        CHAR    
+                            T        CHAR    
+                            S        CHCG    
+                            SC       CHCG    
+                            T        CHCG    
+                            T        CHTG    
+                            S        CHZG    
+                            SC       CHZG    
+                            T        CHZG    
+                   G        T        CHZG    
+                            T        COAE    
+                            GD       COAG    
+                            OD       COAK    
+                            T        COAR    
+                            DT       COCG    
+                            GHC      COCG    
+                            T        COCH    
+                            S        CODG    
+                   P        S        CODG    
+                            T        CODG    
+                   G        T        CODG    
+                            D        COEG    
+                            OH       COEG    
+                            SC       COEG    
+                   D        T        COEG    
+                   OH       T        COEG    
+                            S        COEO    
+                            S        COHG    
+                            T        COHG    
+                            T        CORG    
+                                     CPAM    
+                            G        CPAM    
+                            T        CPAM    
+                            TC       CPAM    
+                            T        CPAR    
+                            T        CPOE    
+                                     CPTG    
+                            DC       CPTG    
+                            PTCO     CPTG    
+                            S        CPTG    
+                            T        CPTG    
+                            S        CPZG    
+                   O        D        CSCG    
+                   OE       D        CSCG    
+                            POEH     CSOE    
+                            T        CTCG    
+                            T        CTOE    
+                            GD[T|C   C]OR    
+                   SC       [        C|G]    
+                   TCH      [        C|G]    
+                            GH[|T]C[C C|]G    
+                   S        [        C|]G    
+                   SOPZ     [        C|]G    
+                            S[C|]D[|Z]SC[ C|]H    
+                            G        DADG    
+                                     DAEG    
+                   S        C        DAEG    
+                   T        C        DAEG    
+                            G        DAEG    
+                            O        DAEG    
+                   OEG      O        DAEG    
+                            O        DAIE    
+                            SC       DAIM    
+                            SG       DAIM    
+                                     DAIR    
+                            G        DAIR    
+                            O        DAIR    
+                   S        O        DAIR    
+                            OE       DAIR    
+                            S        DAIR    
+                            SC       DAIR    
+                            G        DANR    
+                                     DARA    
+                                     DARG    
+                            O        DARG    
+                            OE       DARG    
+                            O        DCAG    
+                            O        DCAR    
+                   ODC      O        DCAR    
+                                     DCCG    
+                   A        C        DCCG    
+          GT       C        C        DCCG    
+          S        C        C        DCCG    
+                   S        C        DCCG    
+                   T        C        DCCG    
+                            E        DCCG    
+                   O        E        DCCG    
+          OE       O        E        DCCG    
+          P        O        E        DCCG    
+          TO       O        E        DCCG    
+                            G        DCCG    
+                   OH       G        DCCG    
+                            O        DCCG    
+                   CD       O        DCCG    
+                   G        O        DCCG    
+                   S        O        DCCG    
+                   T        O        DCCG    
+                            S        DCCG    
+                            T        DCCG    
+                            G        DCCO    
+                            OE       DCCO    
+                            TC       DCJR    
+                                     DCOE    
+                            E        DCOE    
+                   O        E        DCOE    
+          E        O        E        DCOE    
+                            G        DCOE    
+                            O        DCOE    
+                            S        DCOE    
+                                     DCOR    
+                            O        DCOR    
+                            G        DCSG    
+                            O        DCSG    
+                   S        O        DCSG    
+                            OE       DCSG    
+                            O        DCTG    
+                            O        DCTO    
+                            O        DEOR    
+                            G|]      DOAM    
+                            TO       DOEK    
+                                     DORG    
+                                     DSAM    
+                                     DSCG    
+                            O        DSCG    
+                            OE       DSCG    
+                            SC       DSCG    
+                                     DSCO    
+                            G        DSCO    
+                            O        DTAR    
+                                     DTCG    
+                            E        DTCG    
+                   O        E        DTCG    
+                            G        DTCG    
+                            O        DTCG    
+                            S        DTCG    
+                            TC       DTCG    
+                            |]       DTCG    
+                            AIK      DTCO    
+                                     DTOE    
+                            G        DTOE    
+                            O        DTOE    
+                   T        O        DTOE    
+                                     DTOG    
+                            G        DTOK    
+                                     DTOR    
+                            O        DTOR    
+                            G[HCC|   DT]O    
+                            SC       DZAE    
+                            T        DZAE    
+                            T        DZAK    
+                                     DZAM    
+                            T        DZAN    
+                            S        DZAR    
+                            T        DZAR    
+                                     DZCG    
+                   S        C        DZCG    
+                   T        C        DZCG    
+          E        T        C        DZCG    
+          G        T        C        DZCG    
+                            G        DZCG    
+                            O        DZCG    
+                   S        O        DZCG    
+                            S        DZCG    
+                            T        DZCG    
+                                     DZOE    
+                            T        DZOR    
+                            T        DZSG    
+                            O[H|     D]AK    
+                            HO[H|    D]ZG    
+                            A        EAIM    
+                            T        EAIM    
+                            O        EAMG    
+                            ORAEGO   EANR    
+                            O        EDAE    
+                   T        O        EDAE    
+                            O        EDAK    
+                                     EDAM    
+                            O        EDAM    
+                   E        O        EDAM    
+                            OPA      EDAM    
+                                     EDAN    
+                            HA       EDAN    
+                            O        EDAN    
+                                     EDAR    
+                            O        EDAR    
+                            O        EDCC    
+                                     EDCG    
+                            A        EDCG    
+                            O        EDCG    
+                   H        O        EDCG    
+                                     EDCO    
+                            A        EDEG    
+                                     EDOE    
+                            O        EDOE    
+                   G        O        EDOE    
+                            O        EDOR    
+                            SO       EDSG    
+                            O        EDTG    
+                            O        EEOK    
+                            O        EETG    
+                                     EFOE    
+                            O        EGEG    
+                            O        EHAE    
+                                     EHAM    
+                            O        EHAM    
+                                     EHAR    
+                            O        EHAR    
+                            O        EHCG    
+                            OEO      EHOE    
+                            O        EHOM    
+                            O        EHTG    
+                            AR       EHZG    
+                            O        EOAM    
+                   OH       O        EOAM    
+                            O        EODG    
+                                     EOEG    
+                            O        EOEG    
+                            TA       EOEG    
+                            CPA      EOIR    
+                                     EOMK    
+                                     EORG    
+                            A        EORG    
+                            O        ERAM    
+                                     ERAR    
+                                     ESCC    
+                                     ESCG    
+                            A        ESCG    
+                            O        ESCG    
+                   P        O        ESCG    
+                                     ESCK    
+                            O        ESHG    
+                   T        O        ESOE    
+                   [Y|]     O        ESOE    
+                                     ETAR    
+                                     ETCG    
+                            A        ETCG    
+                            ED       ETCG    
+                            O        ETCG    
+                   D        O        ETCG    
+                   OE       O        ETCG    
+                   P        O        ETCG    
+                   T        O        ETCG    
+                   TC       O        ETCG    
+                            OR       ETCG    
+                                     ETOR    
+                            O        FAIR    
+                                     FARG    
+                            O        FOEG    
+                                     FOER    
+                                     FTAK    
+                            O        FTAR    
+                            O        FTCC    
+                            G        FTCG    
+                            O        FTCG    
+                            TC       FTOE    
+                                     FZCG    
+                            T        FZCG    
+                                     FZOE    
+                            O[D|     F]ZG    
+                                     GDAE    
+                                     GDAK    
+                                     GDAL    
+                                     GDAM    
+                                     GDAN    
+                                     GDAR    
+                                     GDCG    
+                                     GDCO    
+                                     GDEG    
+                                     GDOE    
+                                     GDOR    
+                                     GDTG    
+                            T        GDTG    
+                            OD       GEDG    
+                                     GEOR    
+                            OD       GEOR    
+                            ODC      GETG    
+                                     GFOR    
+                                     GHAE    
+                                     GHAK    
+                            PGOH     GHAK    
+                                     GHAM    
+                            ODG      GHAM    
+                                     GHAR    
+                            OD       GHAR    
+                                     GHCG    
+                            HC       GHCK    
+                                     GHGE    
+                                     GHOE    
+                                     GHOR    
+                                     GHSO    
+                                     GHTG    
+                                     GODG    
+                                     GPAR    
+                                     GSCC    
+                                     GSCG    
+                            O        GSCG    
+                                     GSOE    
+                                     GTCD    
+                                     GTCG    
+                                     GTCO    
+                                     GTHG    
+                                     GTOR    
+                            OH       G[|]    
+                            TC[C|    G]OR    
+                            DTC[     G|O]    
+                            O        HADG    
+                                     HAEG    
+                            G        HAEG    
+                            O        HAEG    
+                   D        O        HAEG    
+                                     HAIR    
+                            T        HAIR    
+                            TO       HAIR    
+                                     HAMG    
+                            G        HANR    
+                            O        HARA    
+                                     HARG    
+                            E        HARG    
+                            G        HARG    
+                            O        HARG    
+                            SC       HCAE    
+                                     HCCG    
+                            E        HCCG    
+                            G        HCCG    
+                   R        G        HCCG    
+                   T        G        HCCG    
+                            O        HCCG    
+                   T        O        HCCG    
+                            T        HCCG    
+                            TCC      HCCG    
+                            [O|A]    HCCG    
+                                     HCOE    
+                            O        HCOE    
+                   T        O        HCOE    
+                            O        HCOK    
+                                     HCOR    
+                            O        HCOR    
+                                     HCTG    
+                            O        HEOE    
+                                     HFZG    
+                            O        HG[|    
+                                     HOAR    
+                                     HORG    
+                                     HOSG    
+                            O        HSAM    
+                            T        HSAR    
+                                     HSCG    
+                            O        HSCG    
+                            OE       HSCG    
+                                     HSOE    
+                                     HTAE    
+                                     HTAM    
+                                     HTAR    
+                            O        HTAR    
+                                     HTCG    
+                            A        HTCG    
+                            G        HTCG    
+                            O        HTCG    
+                            TC       HTCG    
+                                     HTCO    
+                                     HTOE    
+                            G        HTOE    
+                            O        HTOE    
+                   T        O        HTOE    
+                            TCC      HTOE    
+                            OHGOEG   HTOK    
+                                     HTOR    
+                            G        HTOR    
+                            TO       HTOR    
+                                     HZAE    
+                                     HZAK    
+                                     HZAM    
+                                     HZAN    
+                                     HZAR    
+                                     HZCG    
+                            A        HZCG    
+                   GD       C        HZCG    
+                   S        C        HZCG    
+                   SC       C        HZCG    
+                   T        C        HZCG    
+                            O        HZCG    
+                   H        O        HZCG    
+                            S        HZCG    
+                            T        HZCG    
+                            TCAM     HZCG    
+                                     HZCR    
+                                     HZOE    
+                                     HZOK    
+                                     HZOR    
+                            O        HZOR    
+                            A[D|     H]AM    
+                            [D|      H]AR    
+                            [D|      H]CG    
+                            [D|      H]CO    
+                            [D|      H]TG    
+                   OHCCAMT  [D|      H]TG    
+                            A        IDZG    
+                            AI       IHZG    
+                            FA       IIEG    
+                            PZ       IOFG    
+                            HA       IPAR    
+                            GHA      IRAM    
+                            TC       IROR    
+                            OEAI[    I|]R    
+                            A        NAEG    
+                            ODA      N[|M    
+                            A[       N|M]    
+          G        D        A[       N|M]    
+          O        D        A[       N|M]    
+ T        O        D        A[       N|M]    
+          OROE     D        A[       N|M]    
+                   E        A[       N|M]    
+                   O        A[       N|M]    
+                   OH       A[       N|M]    
+                                     OAAL    
+                                     OAIR    
+                            E        OCCG    
+                            P        OCCO    
+                            SC       OCDG    
+                            T        OCDG    
+                                     ODAE    
+                            T        ODAE    
+                                     ODAK    
+                            E        ODAK    
+                            T        ODAL    
+                                     ODAM    
+                            HARAM    ODAM    
+                            OD       ODAM    
+                            OR       ODAM    
+                            S        ODAM    
+                            T        ODAM    
+                            |]       ODAM    
+                                     ODAN    
+                            P        ODAN    
+                                     ODAR    
+                            E        ODAR    
+                   O        E        ODAR    
+                            H        ODAR    
+                            ODARAK   ODAR    
+                            T        ODAR    
+                            TC       ODAR    
+                                     ODCA    
+                                     ODCG    
+                            ODAM     ODCG    
+                            T        ODCG    
+                                     ODCO    
+                                     ODMG    
+                                     ODOE    
+                            H        ODOE    
+                            ODAR     ODOE    
+                            |R]ARG   ODOE    
+                                     ODOG    
+                                     ODOR    
+                            ODCG     ODOR    
+                                     ODTG    
+                            S        ODTG    
+                            T        ODTG    
+                                     ODTO    
+                                     ODZG    
+                   SC       C        ODZG    
+                   T        C        ODZG    
+                            OEP      ODZG    
+                            S        ODZG    
+                            S[C|]    ODZG    
+                            T        ODZG    
+                                     OEAE    
+                            T        OEAE    
+                                     OEAK    
+                                     OEAM    
+                            P        OEAM    
+                            S        OEAM    
+                                     OEAN    
+                            HCAC     OEAN    
+                                     OEAR    
+                                     OEDA    
+                                     OEDG    
+                            T        OEDG    
+                            T        OEHG    
+                                     OEOE    
+                            OH       OEOE    
+                            SC       OEOE    
+                            T        OEOE    
+                   H        T        OEOE    
+                                     OEOG    
+                                     OEOK    
+                            E        OEOK    
+                            FS       OEOK    
+                            ODAR     OEOK    
+                                     OEOL    
+                                     OEOM    
+                                     OEOR    
+                            E        OEOR    
+                   A        E        OEOR    
+                            F        OEOR    
+                            OD       OEOR    
+                            ODC      OEOR    
+                            OEDCCG   OEOR    
+                            D        OEPG    
+                            P        OESG    
+                            D        OESO    
+                            T        OESO    
+                                     OETC    
+                                     OETG    
+                            OD       OETG    
+                            P        OETG    
+                            R        OETG    
+                            [        OE|A    
+                                     OFAE    
+                                     OFAM    
+                                     OFAR    
+                            GD       OFAR    
+                            S        OFOE    
+                                     OFTG    
+                            AE       OFZG    
+                                     OGHG    
+                                     OHAE    
+                            E        OHAE    
+                            ORA[N|M] OHAE    
+                            S        OHAE    
+                            T        OHAE    
+                            OH       OHAG    
+                                     OHAK    
+                            TC       OHAK    
+                                     OHAM    
+                            GTCG     OHAM    
+                            R        OHAM    
+                                     OHAN    
+                                     OHAR    
+                            OHG      OHAR    
+                            T        OHAR    
+                   OH       T        OHAR    
+                            TC       OHAR    
+                            ]        OHAR    
+                                     OHCG    
+                            AR       OHCG    
+                            TC       OHCG    
+                                     OHCO    
+                                     OHOE    
+                            H        OHOE    
+                            S        OHOE    
+                   D        S        OHOE    
+                            T        OHOE    
+                            TDZG     OHOE    
+                                     OHOG    
+                                     OHOR    
+                            T        OHOR    
+                                     OHSG    
+                            T        OHSG    
+                                     OHSO    
+                                     OHTE    
+                                     OHTG    
+                            T        OHTG    
+                                     OHTK    
+                                     OHTO    
+                                     OHZG    
+                   S        C        OHZG    
+                   T        C        OHZG    
+                            S        OHZG    
+                            T        OHZG    
+                                     OIIM    
+                            TC       OODG    
+                            GT       OOPG    
+                                     OPAE    
+                            SC       OPAK    
+                                     OPAM    
+                                     OPAR    
+                                     OPOE    
+                                     OPOR    
+                                     OPTG    
+                            T        OPTG    
+                            PTC      OPZG    
+                            S        OPZG    
+                                     ORAE    
+                            E        ORAE    
+                   O        E        ORAE    
+                                     ORAK    
+                            DCCG     ORAK    
+                            OF       ORAK    
+                            SOD      ORAK    
+                                     ORAM    
+                            E        ORAM    
+                   O        E        ORAM    
+                            G        ORAM    
+                            H        ORAM    
+                            OR       ORAM    
+                            P        ORAM    
+                            [Y|E]    ORAM    
+                                     ORAN    
+                            E        ORAN    
+                                     ORAR    
+                            OD       ORAR    
+                            P        ORAR    
+                                     OROE    
+                            D        OROE    
+                            OE       OROE    
+                            R        OROE    
+                            TC       OROE    
+                                     OROM    
+                            D        OROM    
+                            T        OROR    
+                                     ORRO    
+                            S        ORSG    
+                            D        ORTG    
+                                     OSCG    
+                            H        OSCO    
+                                     OTCG    
+                            H        OTCG    
+                            OHC      OTCG    
+                                     OTOE    
+                            S        OTOE    
+                   DS       [        O|A]    
+                   OHT      [        O|A]    
+                   SC       [        O|A]    
+                            O        PAEG    
+                                     PAIR    
+                            G        PAIR    
+                            G[       PAIR    
+                            O        POEG    
+                                     PSAR    
+                                     PSCG    
+                            O        PSCG    
+                            SC       PSCG    
+                                     PSOE    
+                                     PTAE    
+                            O        PTAE    
+                   A        O        PTAE    
+                            O        PTAM    
+                                     PTAR    
+                            G        PTAR    
+                                     PTCG    
+                            O        PTCG    
+                            TG       PTCG    
+                            G        PTCR    
+                                     PTOE    
+                            O        PTOE    
+                            O[|C]    PTOE    
+                                     PTOF    
+                                     PTOR    
+                            |]O      PTOR    
+                                     PZAE    
+                                     PZAM    
+                                     PZAR    
+                                     PZCC    
+                                     PZCG    
+                            HO       PZCG    
+                            T        PZCG    
+                                     PZCO    
+                                     PZOE    
+                                     PZOR    
+                                     RAEG    
+                            ODA      RAEG    
+                                     RAIR    
+                            O        RAIR    
+                                     RARG    
+                            [D|H]O   RARG    
+                            O        RDAR    
+                            A        RGEG    
+                                     RHAM    
+                                     ROEG    
+                            O        ROEG    
+                                     RORG    
+                            O        RORG    
+                                     RSCC    
+                                     RSCG    
+                            PO       RSCG    
+                                     RTCG    
+                            G        RTCG    
+                            O        RTCG    
+                   D        O        RTCG    
+                                     RTCK    
+                            HA       RTOR    
+                            O        RTOR    
+                            [A|O]I   R[|]    
+                            [|       R]AN    
+                            RA[      R|M]    
+                                     SCAE    
+                            R        SCAE    
+                            OE       SCAK    
+                                     SCAM    
+                                     SCAR    
+                                     SCCG    
+                            D        SCCG    
+                            E        SCCG    
+                   O        E        SCCG    
+                            G        SCCG    
+                            TETP     SCCG    
+                                     SCCH    
+                                     SCCO    
+                                     SCCP    
+                                     SCDG    
+                                     SCGR    
+                                     SCHG    
+                            E        SCHG    
+                                     SCOE    
+                            D        SCOE    
+                   G        D        SCOE    
+                            E        SCOE    
+                   O        E        SCOE    
+                            OEDCCG   SCOE    
+                                     SCOG    
+                                     SCOR    
+                            G        SCOR    
+                            H        SCOR    
+                            OE       SCOR    
+                            P        SCOR    
+                                     SCSG    
+                                     SCTG    
+                                     SC[|    
+                                     SDAE    
+                                     SDAM    
+                                     SDOE    
+                                     SDTG    
+                                     SDZG    
+                            E        SDZG    
+                                     SGDG    
+                                     SGSO    
+                                     SHAE    
+                                     SHOE    
+                                     SHTG    
+                                     SHZG    
+                            E        SHZG    
+                                     SOAM    
+                                     SOCG    
+                                     SODG    
+                                     SOEG    
+                            EH       SOEG    
+                            GP       SOEG    
+                                     SOHO    
+                            G        STCG    
+                            [T|      S]CC    
+                   HOE[T    |        S]CG    
+                   P[       |        S]CG    
+                            D[T|     S]CO    
+                            P[GT|A   S]OE    
+                            [T|      S]OR    
+                            [T|      S]PG    
+                                     TAEG    
+                            OP       TAEG    
+                                     TARG    
+                                     TCAE    
+                            E        TCAE    
+                            OH       TCAE    
+                            OE       TCAG    
+                                     TCAK    
+                            E        TCAK    
+                                     TCAR    
+                            E        TCAR    
+                            P        TCAR    
+                                     TCCF    
+                                     TCCG    
+                   O        D        TCCG    
+                   TC       D        TCCG    
+                            E        TCCG    
+                   O        E        TCCG    
+                            G        TCCG    
+                            H        TCCG    
+                   O        H        TCCG    
+          T        O        H        TCCG    
+                            O        TCCG    
+                            OP       TCCG    
+                            R        TCCG    
+                                     TCCH    
+                                     TCCL    
+                            H        TCCL    
+                                     TCCO    
+                                     TCCR    
+                                     TCDE    
+                                     TCDG    
+                            GF       TCDG    
+                            OE       TCDG    
+                            R        TCDG    
+                            TCP      TCFG    
+                                     TCGE    
+                                     TCHG    
+                            H        TCHG    
+                            OP       TCHG    
+                                     TCHZ    
+                                     TCOE    
+                            D        TCOE    
+                            E        TCOE    
+                   O        E        TCOE    
+                            G        TCOE    
+                            GHC      TCOE    
+                            H        TCOE    
+                   TO       H        TCOE    
+                            P        TCOE    
+                   E        P        TCOE    
+                            P        TCOH    
+                                     TCOP    
+                                     TCOR    
+                            GD       TCOR    
+                                     TCPA    
+                                     TCPG    
+                                     TDAE    
+                                     TDAK    
+                                     TDAM    
+                            H        TDAM    
+                                     TDAN    
+                                     TDAR    
+                                     TDCG    
+                                     TDTG    
+                                     TDZA    
+                                     TDZG    
+                            DC       TDZG    
+                            G        TDZG    
+                            OE       TDZG    
+                                     TFAM    
+                                     TFZG    
+                                     TGHG    
+                                     THAE    
+                            T        THAE    
+                                     THAM    
+                            OF       THAR    
+                                     THCG    
+                                     THOE    
+                                     THTG    
+                            H        THTO    
+                                     THZG    
+                            E        THZG    
+                   O        E        THZG    
+          GDTC     O        E        THZG    
+                                     THZO    
+                            OD       TOAE    
+                                     TOAR    
+                            E        TOAR    
+                                     TODG    
+                            OH       TODG    
+                                     TODO    
+                                     TODZ    
+                                     TOEG    
+                                     TOEO    
+                                     TOHC    
+                                     TOHG    
+                            OH       TOHG    
+                            TD       TORG    
+                            P        TOR[    
+                                     TOSG    
+                            TCDG     TOTG    
+                                     TPAR    
+                                     TPOR    
+                                     TPZG    
+                                     TYAR    
+                            F        ZCCG    
+                            H        ZCCG    
+                   TO       H        ZCCG    
+                            O        ZCCG    
+                            SD       ZCCG    
+                            SH       ZCGE    
+                            H        ZCGK    
+                            OH       ZCOE    
+                            TP       ZCOR    
+                            H        ZOTG    
+                            H        ZTCG    
+                            [T|]H[|  Z]AM    
+                            TO       [G|]    
+                            TO       [R|]    
+                            TCPT     [Y|]    
+                                     ]AIK    
+                            [D|H     ]COG    
+                            [G|C     ]DAM    
+                            H[O|A    ]DAR    
+                            [A|O     ]DCG    
+                            [O|A     ]DCG    
+                            [O|      ]DTG    
+                            [T|      ]DZG    
+                            GD[O|A   ]EAR    
+                            [G|O     ]HAR    
+                            S[|C     ]HZG    
+                            R[O|A    ]IRG    
+                            |        ]OEG    
+                            [G|O     ]RAR    
+                            [D|H     ]TAM    
+                            [D|H     ]TAN    
+                                     ]TAR    
+                            |        ][|G    
+                            TC[O     |A]E    
+                            TO[G     |A]E    
+                            TOR[O    |A]M    
+          S        C        [O       |A]R    
+ PO       S        C        [O       |A]R    
+          [G|]HT   C        [O       |A]R    
+                   PTOKOH   [O       |A]R    
+                   [O|A]D   [O       |A]R    
+                            TCD[G    |C]E    
+                   DZ       [        |C]G    
+                   GS[G|]C  [        |C]G    
+                            TC[P     |F]G    
+                            TC[CD    |H]G    
+                            OA[M     |IR]    
+                            [TR      |S]M    
+                            [S       |T]G    
+                            OTC[C|]D[T |Z]G    
+                   SDZF     [        |Z]G    
+                   S[C|]P   [        |Z]G    
+                                     |]AK    
+                            [S       |]AM    
+                            SCC[C    |]DG    
+                            HZC[C    |]HG    
+                                     |]OR    
+                            H[Z      |]SO    

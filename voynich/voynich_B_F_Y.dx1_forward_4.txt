@@ -1,0 +1,163 @@
+ AEDA     IR      
+ AEDA     M       
+ AEDC     CG      
+ AEFO             
+ AEOE             
+ AETC     CG      
+ AFZG             
+ AIIR             
+ AIIR     AE      
+ AIRA     E       
+ ANDA     K       
+ ANTG             
+ APOR     AIR     
+ APTC     O       
+ APZC     CG      
+ ARAE             
+ ARAE     DAK     
+ ARAM             
+ ARYO     R       
+ CCOE             
+ DAIR             
+ DARA     IK      
+ DARG             
+ DCCG             
+ DCCO             
+ DCCO     E       
+ DSCC     OE      
+ DTCG             
+ DZCC     G       
+ DZCO     E       
+ EDAI     IR      
+ EDAM             
+ EDAR             
+ EDCC     G       
+ EDCO     E       
+ EDEO     R       
+ EDOE             
+ EDSC     CG      
+ EPAI     K       
+ ERAM             
+ ETCC     G       
+ FTOD     G       
+ GAIR             
+ GDAI     R       
+ GDAM             
+ GDCC     G       
+ GDCC     O       
+ GEDA     M       
+ GHAK             
+ GHAM             
+ GHCC     G       
+ GHTG             
+ GPAI     R       
+ GPAR             
+ GSCG             
+ GTCC     G       
+ GTCC     O       
+ GTCO             
+ GTCO     TG      
+ HAIE             
+ HAIR             
+ HCCO     E       
+ HCCO     R       
+ HCOE             
+ HTOE             
+ OAII     R       
+ OAIR             
+ OCCG             
+ OCCO     ETG     
+ OCOA     R       
+ ODAE             
+ ODAI     IR      
+ ODAI     R       
+ ODAI     R        G       
+ ODAI     R        O       
+ ODAK             
+ ODAM             
+ ODAR             
+ ODCC     CG      
+ ODCC     G       
+ ODCC     O       
+ ODCC     O        E       
+ ODCO     E       
+ ODOE             
+ ODSC     G       
+ ODTC     CO      
+ ODTC     G       
+ ODZG             
+ OEAM             
+ OEAR             
+ OECC     CG      
+ OEDA     E       
+ OEDA     M       
+ OEDC     COE     
+ OEDT     CG      
+ OEDT     O       
+ OEFA     M       
+ OEHC     CCG     
+ OEPT     CCG     
+ OESC     G       
+ OFAI     IR      
+ OFOR     G       
+ OHAE             
+ OHAE     G       
+ OHAI             
+ OHAI     IR      
+ OHAI     R       
+ OHAK             
+ OHAM             
+ OHAR             
+ OHAR     AE      
+ OHCC     COR     
+ OHCC     G       
+ OHCC     O       
+ OHCC     O        E       
+ OHCG             
+ OHCO     E       
+ OHEC     CG      
+ OHOE             
+ OHOR             
+ OHTC     CG      
+ OHTC     G       
+ OHTG             
+ OPAI     E       
+ OPAI     IK      
+ OPAI     R       
+ OPAI     R        AK      
+ OPAM             
+ OPTC     G       
+ ORAE             
+ ORAI     R       
+ ORAM             
+ OROE             
+ PAIR             
+ POAR             
+ POEA     IRG     
+ PORA     IR      
+ PTCC     G       
+ PTCG             
+ PTCO     R       
+ PTOR             
+ PZCO     R       
+ PZCS     G       
+ RODA     IY      
+ SCCF     G       
+ SCCG             
+ SCCO             
+ SCOC             
+ SCOE             
+ SCOG             
+ SDZG             
+ TCCG             
+ TCCO             
+ TCDA     IK      
+ TCDG             
+ TCFT     CG      
+ TCOE             
+ TCOH             
+ TCOH     G       
+ TDAR             
+ THTG             
+ TPAN     DCG     
+ TPOR             

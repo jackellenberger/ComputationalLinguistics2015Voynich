@@ -1,0 +1,10 @@
+ SDZ      CPZG    
+ G        FTCG    
+          GHCO    
+ G        HCCG    
+ G        HTCG    
+          OHOR    
+          SCCD    
+          SDZG    
+          TODG    
+ TCOHCC   [OG]    

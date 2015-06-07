@@ -1,0 +1,39 @@
+ AROS     OE      
+ CDZC     G       
+ DCCG             
+ FOES     OG      
+ GDCC     AK      
+ GDCC     CO      
+ GDSC     CG      
+ GTCO     E       
+ HZCG             
+ HZCO     E       
+ ODCC     OE      
+ ODCO     E       
+ OEAR     AL      
+ OEDO     R       
+ OETC     AE      
+ OETI     OK      
+ OETO     R       
+ OHAE     A       
+ OHAR     AR      
+ OHCA     R       
+ OHCC     G       
+ OHCO     E       
+ OHOE     G       
+ OHOE     TCG     
+ OHTE             
+ ORAR             
+ OROE             
+ PZOE             
+ SCOE             
+ SCOR             
+ TCDC     CG      
+ TCDG             
+ TCOD     ZG      
+ TCOE             
+ TDCC     G       
+ TODZ     OG      
+ TOFO     RA      
+ TOIH     G       
+ TORA     K       

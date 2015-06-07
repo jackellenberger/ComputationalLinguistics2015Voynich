@@ -1,0 +1,137 @@
+          OH       ADAR    
+          OD       AEAE    
+          OH       AEAE    
+                   AEAK    
+          C        AEAK    
+          SOE      AEAK    
+                   AEAM    
+ G        H        AEAR    
+ O        H        AEAR    
+                   AEOE    
+          SOD      AEOE    
+                   AEOK    
+          S        AEOK    
+          OD       AEOR    
+          OH       AEOR    
+          OHOR     AETG    
+          S        ARAE    
+                   ARAK    
+          S        ARAK    
+          SO       ARAR    
+          OE       CCAK    
+          OPT      CCAR    
+          S        CCAR    
+          OE       CCCG    
+ GR       OE       CCCG    
+          OH       CCOR    
+          T        CDAM    
+ S        O        CDAR    
+ TC       O        CDAR    
+          OE       CDAR    
+          T        CDZG    
+          SCC      CHTG    
+          T        COEG    
+          OH       CORG    
+          GH       COTG    
+          HOEC     CSAE    
+          G        DAEG    
+          O        DAEG    
+          O        DAIR    
+          O        DCAE    
+          OE       DCAE    
+                   DCCG    
+          G        DCCG    
+          OE       DCOE    
+          OPOE     DCOR    
+                   DSAR    
+                   DZOE    
+          TO       EAEG    
+          A        EDAR    
+          TO       EHAK    
+          OHA      ETAE    
+          A        ETCG    
+          OE       FTAK    
+          TO       FTOE    
+                   GDAE    
+                   GDAR    
+                   GHAE    
+                   GHAK    
+                   GHAR    
+                   GHCO    
+                   GHOE    
+                   GHOR    
+                   HACM    
+          O        HAEG    
+          O        HARG    
+          G        HASG    
+                   HCOE    
+          O        HCOK    
+          G        HCOR    
+          O        HCRG    
+          SCO      HZAK    
+          GHA      IPAK    
+          TA       IRAE    
+          OHCC     OAEG    
+                   ODAE    
+          S        ODAE    
+          T        ODAE    
+ OE       T        ODAE    
+                   ODAM    
+                   ODAR    
+          S        ODAR    
+                   ODCG    
+          T        ODCG    
+          GSC      ODZG    
+          T        ODZG    
+          OPSC     OEAM    
+          S        OEAM    
+          T        OEAM    
+          S        OEAR    
+          TAE      OEDG    
+          T        OEFG    
+                   OEOE    
+          GS       OESG    
+          OD       OETG    
+          OET      OFZG    
+                   OHAE    
+          T        OHAK    
+                   OHAM    
+                   OHAR    
+          T        OHAR    
+                   OHCG    
+                   OHTG    
+          S        OPTG    
+                   ORAR    
+          HG       PTCG    
+          TC       PTCG    
+                   PZOE    
+          ARAI     RAEG    
+          TOE      RAEG    
+          A        RARG    
+          HO       RTCG    
+          OHA      RTOE    
+                   SAEG    
+          H        SAEG    
+          G        SCAE    
+                   SCAN    
+                   SCCG    
+                   SCOE    
+                   SODG    
+                   SOEG    
+                   SOHG    
+                   TAEG    
+          A        TAEG    
+                   TARG    
+                   TCAE    
+                   TCAK    
+                   TCAR    
+          OE       TCAR    
+                   TCDG    
+                   TCOE    
+                   TCOK    
+                   TCOR    
+          G        TCOR    
+                   TDAM    
+                   THCG    
+                   TODG    
+                   TOHG    

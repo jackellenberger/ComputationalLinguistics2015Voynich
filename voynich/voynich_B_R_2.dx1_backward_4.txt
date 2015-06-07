@@ -1,0 +1,30 @@
+          OETC     CCCG    
+          OD       CCOE    
+          S        CCOR    
+ H        S        CCOR    
+          GD       CCTG    
+          OC       CHZG    
+          OHCC     CIIR    
+          T        COAE    
+          DT       COCG    
+          OHT      COEG    
+          ODC      CTOR    
+          TO       DCCG    
+          O        DTOE    
+          O        DTOR    
+          T        GDTG    
+          O        HCOE    
+          O        HOAM    
+          OH       OCCO    
+                   ODCG    
+                   ODOE    
+                   OPOE    
+                   ORAK    
+          TC       OROE    
+          O        PTCG    
+          OPO      PZOR    
+                   SCOE    
+                   TCOR    
+          OHOE     THCG    
+          OH       TODG    
+          O        TORG    

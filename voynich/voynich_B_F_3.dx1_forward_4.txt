@@ -1,0 +1,224 @@
+ AEAR             
+ AEDA     K       
+ AEDA     M       
+ AEDA     R       
+ AEDG             
+ AEOR             
+ AHZG             
+ AKOK             
+ ARAE             
+ ARAE     OSCCG   
+ ARAM             
+ ARAR     AK      
+ AROM             
+ DAEG             
+ DARA     R       
+ DCCA     R       
+ DCCO             
+ DCSA     R       
+ DSCC     G       
+ DSCG             
+ DTOE             
+ EDAE     OE      
+ EDAM             
+ EDAR             
+ EDCC     OR      
+ EDCG             
+ EDOR             
+ EDSG             
+ EFAR             
+ EFTG             
+ ERAG             
+ ESCA     R       
+ ESCT     G       
+ ETCG             
+ FGSC     G       
+ FTFZ     G       
+ GDAE             
+ GDAI     ROEDG   
+ GDAM             
+ GDAM     K       
+ GDAN     DAR     
+ GDAR             
+ GDCC     AEAR    
+ GDCC     G       
+ GDCC     O       
+ GDCC     SG      
+ GDCS     G       
+ GDTG             
+ GHAE             
+ GHAE     G       
+ GHAI     K       
+ GHAI     R       
+ GHAK             
+ GHAM             
+ GHAM     K       
+ GHAP     G       
+ GHAR             
+ GHAR     AR      
+ GHCC     G       
+ GHCO     E       
+ GHOR             
+ GHSG             
+ GHTC     G       
+ GHTG             
+ GHTO     E       
+ GPAR             
+ GPSC     OR      
+ GPTO     R       
+ GSCG             
+ GSCO     AR      
+ GTCC     G       
+ GTCG             
+ HADZ     G       
+ HAID     G       
+ HAIR             
+ HAIR     OOR     
+ HARA             
+ HARA     E       
+ HARA     R       
+ HORO     R       
+ HTCG             
+ HZOE     HZG     
+ OCCG             
+ ODAE             
+ ODAK             
+ ODAL             
+ ODAM             
+ ODAR             
+ ODAR     AE      
+ ODAR     G       
+ ODCC     CG      
+ ODCO     DZCG    
+ ODOE             
+ ODSG             
+ ODTG             
+ OEAM             
+ OECC     G       
+ OEDA     E       
+ OEDA     K       
+ OEDA     M       
+ OEDA     R       
+ OEDC     C        CARG    
+ OEDC     C        G       
+ OEDC     G       
+ OEDC     SAR     
+ OEDC     TG      
+ OEDG             
+ OEDT     CG      
+ OEGG             
+ OEHA     E       
+ OEHA     K       
+ OEHT     CG      
+ OEOR             
+ OEPS     G       
+ OEPT     CG      
+ OESC     CG      
+ OFAR             
+ OHAE             
+ OHAE     DG      
+ OHAI     R       
+ OHAK             
+ OHAM             
+ OHAN             
+ OHAR             
+ OHAR     AR      
+ OHAR     M       
+ OHCC     G       
+ OHCO     R       
+ OHGH     AK      
+ OHOE             
+ OHOR             
+ OHSC     G       
+ OHTC     G       
+ OHTG             
+ OHTO     E       
+ OHZA     E       
+ OHZA     IR      
+ OHZC     G       
+ OHZG             
+ OPAD     AK      
+ OPAE     G       
+ OPAR             
+ OPOR             
+ OPTC     CG      
+ OPTC     G       
+ OPTO     R       
+ OPZC     G       
+ ORAK             
+ ORAM             
+ ORCC     C        G       
+ ORCC     C        K       
+ OROD     CCCCG   
+ OROK             
+ ORSC     CL      
+ ORTC     G       
+ ORTH     ZG      
+ PARO     M       
+ POED     G       
+ POED     TG      
+ POTO     R       
+ PTCG             
+ PTCO     G       
+ PTFZ     G       
+ PTGD     AR      
+ PTOR             
+ PZOE             
+ RAKS     G       
+ RARA     M       
+ RORA     M       
+ SCCD     TG      
+ SCCG             
+ SCCO     R       
+ SCDA     M       
+ SCHA     K       
+ SCHG             
+ SCOD     AM      
+ SCOD     CG      
+ SCOE             
+ SCOP     TCG     
+ SDZG             
+ SDZO     R       
+ SHOR             
+ SOAR             
+ SOFZ     G       
+ SOHA     M       
+ SOHZ     CG      
+ SORO             
+ SPZC     G       
+ TADA     M       
+ TADG             
+ TCAR             
+ TCCA     M       
+ TCCG             
+ TCCH     CCG     
+ TCCK             
+ TCFZ     G       
+ TCOD     AM      
+ TCOD     G       
+ TCOD     ZG      
+ TCOE             
+ TCOH     G       
+ TCOH     ZCG     
+ TCOR             
+ TCPG             
+ TCPZ     CG      
+ TDZG             
+ TDZT     G       
+ TFZG             
+ THZC     G       
+ THZG             
+ TOAM             
+ TODA     M       
+ TODA     R       
+ TOEA     IRG     
+ TOED     AR      
+ TOEF     TG      
+ TOHA     E       
+ TOHA     M       
+ TOHG             
+ TOHZ     G       
+ TORO     ED      
+ TPTG             
+ TPZA     R       
+ TPZG             

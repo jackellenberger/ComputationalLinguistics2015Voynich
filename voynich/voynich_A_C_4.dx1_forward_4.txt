@@ -1,0 +1,43 @@
+ CHCO     E       
+ CHTO             
+ DCOE             
+ DSCC     G       
+ DTOE     R       
+ DTOR             
+ DZAS     OE      
+ DZOE             
+ DZOR             
+ GHTT     G       
+ GOAM             
+ GTAK             
+ GTCG             
+ GTOD     ZG      
+ GTOH     ZG      
+ GTOR             
+ HCCG     R       
+ HTCO             
+ HTOR             
+ HZOC     G       
+ HZOE             
+ HZOH     ZOE     
+ OCPT             
+ ODCO     E       
+ ODOR             
+ ODTC     OR      
+ OEDC     CR      
+ OHCO     E       
+ OHOR             
+ OPAE     CPAK    
+ OPTO     SG      
+ SCOA     E       
+ SCOC     CR      
+ SCOD     G       
+ SHZG             
+ SOHO     E       
+ TADA     E       
+ TDZR             
+ TODA     E       
+ TOHA     R       
+ TOHC     G       
+ TOHO     E       
+ TOSG             

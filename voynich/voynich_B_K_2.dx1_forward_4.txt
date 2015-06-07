@@ -1,0 +1,61 @@
+ AEIF             
+ AEPZ     G       
+ ANAK             
+ ARAE     G       
+ ARAR             
+ GDAR     G       
+ GDOE     AM      
+ GPSA     RAE     
+ ODAE             
+ ODAE     A       
+ ODAE     A        E       
+ ODAE     A        K       
+ ODAE     A        R       
+ ODAE     G       
+ ODAI     R       
+ ODAI     R        G       
+ ODAK             
+ ODAR     A        K       
+ ODAR     A        M       
+ ODCA     E       
+ ODCA     E        AR      
+ ODCC     G       
+ ODCO     AEG     
+ ODCO     EG      
+ ODOE     AR      
+ ODOE     G       
+ ODOE     SG      
+ OFAF     OK      
+ OFAR     AEAR    
+ OHAD     AIKAL   
+ OHAE             
+ OHAE     A        EG      
+ OHAE     A        M       
+ OHAE     C        DG      
+ OHAE     C        F       
+ OHAE     G       
+ OHAE     SG      
+ OHAE     TG      
+ OHAK             
+ OHAM             
+ OHAN             
+ OHAN     G       
+ OHAR             
+ OHAR     CR      
+ OHCA     R       
+ OHCC     ARG     
+ OHCO             
+ OHCO     E       
+ OHCO     E        AR      
+ OHOE     AK      
+ OHOE     OARAK   
+ OHOO     CCG     
+ OHTO     SG      
+ OLAR     G       
+ OPAE     AR      
+ OPAE     RAR     
+ OPTC     G       
+ OTOE     SARAK   
+ TCAR     G       
+ TDZC     G       
+ TFAE     G       

@@ -1,0 +1,39 @@
+ OE       ARAL    
+ OH       ARAR    
+ GD       CCAK    
+ GD       CCCO    
+ OD       CCOE    
+          DCCG    
+ T        DCCG    
+ TC       DCCG    
+ O        DCOE    
+ C        DZCG    
+ TO       DZOG    
+ O        EDOR    
+ FO       ESOG    
+ OHO      ETCG    
+ O        ETOR    
+ TO       FORA    
+ O        HAEA    
+ O        HCAR    
+ O        HCCG    
+ O        HCOE    
+ O        HOEG    
+          HZCG    
+ TC       ODZG    
+          OHTE    
+ T        OIHG    
+ T        ORAK    
+          ORAR    
+          OROE    
+ AR       OSOE    
+          PZOE    
+ GD       SCCG    
+          SCOE    
+          SCOR    
+ OE       TCAE    
+          TCDG    
+          TCOE    
+ G        TCOE    
+ OE       TIOK    
+ H        ZCOE    

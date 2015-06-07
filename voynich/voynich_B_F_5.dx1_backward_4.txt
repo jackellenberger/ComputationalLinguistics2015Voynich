@@ -1,0 +1,99 @@
+          OPT      ADZG    
+          OH       AEAM    
+                   AEOR    
+                   AHAR    
+                   ARAE    
+                   ARAK    
+                   ARAM    
+          OD       ARAM    
+          AD       ARAR    
+          P        ARAR    
+          S        CDAM    
+          T        CDAM    
+          T        CDAR    
+          O        CDSG    
+          C        CDZG    
+          T        CFAR    
+          T        CHAM    
+                   CPAM    
+          TO       CPAM    
+          G        DAEG    
+          O        DAIR    
+                   DARG    
+          G        DARO    
+          OC       DCCG    
+          OE       DCCG    
+          E        DCOE    
+          O        DSCG    
+          SC       DSCG    
+                   DSOE    
+          O        DTAM    
+          T        DZAE    
+          T        DZAM    
+          T        DZCG    
+          O        EAIR    
+          O        EAMG    
+          A        EDAM    
+          O        EDAM    
+          O        EDAR    
+          O        EDOR    
+ G        O        EDOR    
+          A        EFSC    
+                   ESCC    
+          T        FZOE    
+                   GDAE    
+                   GDAM    
+                   GDAR    
+                   GHAR    
+                   GTAR    
+          O        HAMG    
+          O        HCCG    
+          O        HCEG    
+                   HODG    
+                   HSCG    
+                   HSOR    
+                   HTOR    
+          T        HZAK    
+          S        HZCG    
+                   ODAE    
+                   ODAM    
+          GTCC     ODAM    
+                   ODAN    
+                   ODAR    
+                   ODOE    
+                   ODSG    
+                   ODTG    
+          OY       ODZG    
+                   OEAM    
+                   OEDG    
+          T        OEDG    
+                   OEOR    
+                   OFAM    
+                   OFAR    
+                   OHAE    
+                   OHAK    
+                   OHAM    
+                   OHAR    
+                   OHOR    
+                   OHTG    
+          SC       OHZG    
+                   ORAM    
+          O        PANR    
+          O        PARG    
+          O        PSOE    
+          TO       RTOR    
+                   SCDG    
+                   SCGD    
+                   SHZG    
+                   TCCG    
+          F        TCCG    
+          G        TCCO    
+          G        TCOE    
+                   TCOR    
+                   TDAK    
+                   TDAM    
+                   TDAR    
+                   TDZG    
+                   THAE    
+                   THZG    
+                   TODG    

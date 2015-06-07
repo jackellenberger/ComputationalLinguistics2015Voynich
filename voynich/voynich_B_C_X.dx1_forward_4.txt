@@ -1,0 +1,110 @@
+ AEAE     OR      
+ AEDA     K       
+ AIII     L       
+ ARSC     G       
+ DAIR             
+ DARA     RO      
+ DCCG             
+ DCOR     AN      
+ DSAR             
+ DTCC     ORAE    
+ DTCO     ADAR    
+ EDAI     IR      
+ EDAK             
+ EDCG             
+ EOAN             
+ EOED     AIR     
+ EORO     R       
+ ESCO             
+ ETCG             
+ GDAM             
+ GHAN             
+ GHAR             
+ GHAR     ODAN    
+ GTCC     G       
+ GTCO     ED      
+ GTCO     HA      
+ GTHA     N       
+ HSOA     R       
+ HTAR             
+ HZCG             
+ OARA     R       
+ OCCG             
+ ODAE             
+ ODAF     ZA      
+ ODAG             
+ ODAM             
+ ODAN             
+ ODAR             
+ ODAR     OE      
+ ODCC     CG      
+ ODCC     G       
+ ODCC     O       
+ ODCO     R       
+ ODOT     CG      
+ ODSG             
+ ODTA     RAN     
+ OEAM             
+ OEDA     EO[GE]  
+ OEDA     M       
+ OETA     K       
+ OETC     G       
+ OETC     O       
+ OHAE             
+ OHAI     R       
+ OHAK             
+ OHAM             
+ OHAN             
+ OHCC     G       
+ OHCO             
+ OHCO     E       
+ OHOE             
+ OHOR             
+ OHTC     G       
+ OHZG             
+ OPAI     IRAE    
+ OPOE             
+ OPTG             
+ ORAM             
+ ORAN     DAR     
+ PGOA     EG      
+ PGTA     E       
+ SARO     HAR     
+ SCCG             
+ SCCG     DO      
+ SCCO             
+ SCDG             
+ SCOE             
+ SCOH     AE      
+ SC[O     A]ESO   
+ SDAR             
+ SDZG             
+ SHTG             
+ SHZG             
+ SODA     M       
+ SODA     R       
+ SODZ     G       
+ SOOR             
+ SPZA     OR      
+ TARA     K       
+ TARA     N       
+ TCCG             
+ TCGD     AR      
+ TCGD     G       
+ TCOA     IIR     
+ TCOA     R       
+ TCOD     AM      
+ TCOD     TG      
+ TCOE             
+ TCPA     R       
+ TDAM             
+ THZG             
+ TOAM             
+ TOCF     G       
+ TODA     M       
+ TOED     AM      
+ TOHA     E       
+ TOHA     R       
+ TOHG             
+ TOPT     G       
+ [AO]     HG      

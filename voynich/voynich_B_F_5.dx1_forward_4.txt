@@ -1,0 +1,99 @@
+ ADAR     AR      
+ AEDA     M       
+ AEFS     C       
+ AEOR             
+ AHAR             
+ ARAE             
+ ARAK             
+ ARAM             
+ CCDZ     G       
+ CPAM             
+ DARG             
+ DSOE             
+ EDCO     E       
+ ESCC             
+ FTCC     G       
+ GDAE             
+ GDAE     G       
+ GDAM             
+ GDAR             
+ GDAR     O       
+ GHAR             
+ GOED     OR      
+ GTAR             
+ GTCC     O       
+ GTCC     O        DAM     
+ GTCO     E       
+ HODG             
+ HSCG             
+ HSOR             
+ HTOR             
+ OCDC     CG      
+ OCDS     G       
+ ODAE             
+ ODAI     R       
+ ODAM             
+ ODAN             
+ ODAR             
+ ODAR     AM      
+ ODOE             
+ ODSC     G       
+ ODSG             
+ ODTA     M       
+ ODTG             
+ OEAI     R       
+ OEAM             
+ OEAM     G       
+ OEDA     M       
+ OEDA     R       
+ OEDC     CG      
+ OEDG             
+ OEDO     R       
+ OEOR             
+ OFAM             
+ OFAR             
+ OHAE             
+ OHAE     AM      
+ OHAK             
+ OHAM             
+ OHAM     G       
+ OHAR             
+ OHCC     G       
+ OHCE     G       
+ OHOR             
+ OHTG             
+ OPAN     R       
+ OPAR     G       
+ OPSO     E       
+ OPTA     DZG     
+ ORAM             
+ OYOD     ZG      
+ PARA     R       
+ SCDA     M       
+ SCDG             
+ SCDS     CG      
+ SCGD             
+ SCOH     ZG      
+ SHZC     G       
+ SHZG             
+ TCCG             
+ TCDA     M       
+ TCDA     R       
+ TCFA     R       
+ TCHA     M       
+ TCOR             
+ TDAK             
+ TDAM             
+ TDAR             
+ TDZA     E       
+ TDZA     M       
+ TDZC     G       
+ TDZG             
+ TFZO     E       
+ THAE             
+ THZA     K       
+ THZG             
+ TOCP     AM      
+ TODG             
+ TOED     G       
+ TORT     OR      

@@ -1,0 +1,110 @@
+          DTCO     ADAR    
+          AE       AEOR    
+          OD       AFZA    
+          ED       AIIR    
+          TCO      AIIR    
+          T        ARAK    
+          T        ARAN    
+ OD       T        ARAN    
+          O        ARAR    
+          OD       AROE    
+          OD       CCCG    
+          T        CGDG    
+          SC       CGDO    
+          T        COAR    
+          GT       COED    
+          GT       COHA    
+          T        CPAR    
+                   DAIR    
+          EOE      DAIR    
+                   DCCG    
+          O        DCCG    
+          O        DCCO    
+          O        DCOR    
+                   DSAR    
+                   EDAK    
+          A        EDAK    
+          O        EDAM    
+ T        O        EDAM    
+                   EDCG    
+                   EOAN    
+                   ESCO    
+          O        ETAK    
+                   ETCG    
+          O        ETCG    
+          O        ETCO    
+                   GDAM    
+          TC       GDAR    
+                   GHAN    
+                   GHAR    
+          P        GTAE    
+          O        HAIR    
+          O        HCCG    
+          O        HCOE    
+                   HTAR    
+          O        HTCG    
+                   HZCG    
+          A        IIIL    
+          OPAI     IRAE    
+          ORA      NDAR    
+          PG       OAEG    
+                   OCCG    
+          T        OCFG    
+                   ODAE    
+                   ODAG    
+                   ODAM    
+          S        ODAM    
+          T        ODAM    
+          TC       ODAM    
+                   ODAN    
+          GHAR     ODAN    
+                   ODAR    
+          S        ODAR    
+                   ODSG    
+          TC       ODTG    
+          S        ODZG    
+                   OEAM    
+                   OHAE    
+          SC       OHAE    
+          T        OHAE    
+                   OHAK    
+                   OHAM    
+                   OHAN    
+          SAR      OHAR    
+          T        OHAR    
+                   OHCO    
+                   OHOE    
+                   OHOR    
+                   OHZG    
+                   OPOE    
+                   OPTG    
+          T        OPTG    
+          DTCC     ORAE    
+                   ORAM    
+          DC       ORAN    
+          E        OROR    
+          OD       OTCG    
+          [A       O]HG    
+          DA       RARO    
+          A        RSCG    
+                   SCCG    
+                   SCCO    
+                   SCDG    
+                   SCOE    
+                   SDAR    
+                   SDZG    
+                   SHTG    
+                   SHZG    
+          H        SOAR    
+                   SOOR    
+                   TCCG    
+          G        TCCG    
+                   TCOE    
+                   TDAM    
+          G        THAN    
+                   THZG    
+                   TOAM    
+                   TOHG    
+          SP       ZAOR    
+          OEDAEO   [GE]    
+          SC[OA    ]ESO    

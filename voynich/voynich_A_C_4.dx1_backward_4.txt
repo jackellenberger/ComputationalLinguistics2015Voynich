@@ -1,0 +1,43 @@
+ T        ADAE    
+ DZ       ASOE    
+ H        CCGR    
+          CHTO    
+ S        COAE    
+ S        CODG    
+ OPAE     CPAK    
+ OE       DCCR    
+          DCOE    
+ O        DCOE    
+          DTOR    
+          DZOE    
+          DZOR    
+          GOAM    
+          GTAK    
+          GTCG    
+          GTOR    
+ C        HCOE    
+ O        HCOE    
+          HTCO    
+          HTOR    
+ G        HTTG    
+          HZOE    
+ HZO      HZOE    
+ SC       OCCR    
+          OCPT    
+ T        ODAE    
+          ODOR    
+ GT       ODZG    
+ T        OHAR    
+ T        OHCG    
+ S        OHOE    
+ T        OHOE    
+          OHOR    
+ GT       OHZG    
+ D        SCCG    
+          SHZG    
+ OD       TCOR    
+          TDZR    
+ D        TOER    
+          TOSG    
+ OP       TOSG    
+ H        ZOCG    

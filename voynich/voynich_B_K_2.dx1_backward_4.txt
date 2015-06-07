@@ -1,0 +1,61 @@
+ OD       AEAE    
+ OD       AEAK    
+ OH       AEAM    
+ OD       AEAR    
+ ODC      AEAR    
+ OFAR     AEAR    
+ OP       AEAR    
+ OH       AECF    
+          AEIF    
+ OH       AESG    
+ OH       AETG    
+ OF       AFOK    
+ OD       AIRG    
+          ANAK    
+ GPS      ARAE    
+ OD       ARAK    
+ OHOEO    ARAK    
+ OTOES    ARAK    
+ OD       ARAM    
+          ARAR    
+ OH       ARCR    
+ OHC      CARG    
+ T        CARG    
+ OD       COEG    
+ O        DAEA    
+ O        DAEG    
+ O        DAIR    
+ G        DARG    
+ O        DCAE    
+ O        DCCG    
+ O        DOEG    
+ T        DZCG    
+ OHA      EAEG    
+ OHA      ECDG    
+ A        EPZG    
+ OPA      ERAR    
+ T        FAEG    
+ O        HAEG    
+ O        HANG    
+ O        HCAR    
+ O        HCOE    
+ OHADA    IKAL    
+ O        LARG    
+ ODC      OAEG    
+ OHO      OCCG    
+          ODAE    
+          ODAK    
+ OH       OEAK    
+ GD       OEAM    
+ OD       OEAR    
+ OHC      OEAR    
+ OD       OESG    
+          OHAE    
+          OHAK    
+          OHAM    
+          OHAN    
+          OHAR    
+          OHCO    
+ O        PTCG    
+ A        RAEG    
+ OH       TOSG    

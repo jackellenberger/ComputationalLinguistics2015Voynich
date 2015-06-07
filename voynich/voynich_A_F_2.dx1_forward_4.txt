@@ -1,0 +1,137 @@
+ AEAK             
+ AEAM             
+ AEDA     R       
+ AEOE             
+ AEOK             
+ AETC     G       
+ ARAI     RAEG    
+ ARAK             
+ ARAR     G       
+ ATAE     G       
+ CAEA     K       
+ DCCG             
+ DSAR             
+ DZOE             
+ GDAE             
+ GDAE     G       
+ GDAR             
+ GDCC     G       
+ GHAE             
+ GHAE     AR      
+ GHAI     PAK     
+ GHAK             
+ GHAR             
+ GHAS     G       
+ GHCO             
+ GHCO     R       
+ GHCO     TG      
+ GHOE             
+ GHOR             
+ GROE     CCCG    
+ GSCA     E       
+ GSCO     DZG     
+ GSOE     SG      
+ GTCO     R       
+ HACM             
+ HCOE             
+ HGPT     CG      
+ HOEC     CSAE    
+ HORT     CG      
+ HSAE     G       
+ ODAE             
+ ODAE     AE      
+ ODAE     G       
+ ODAE     OR      
+ ODAI     R       
+ ODAM             
+ ODAR             
+ ODCA     E       
+ ODCG             
+ ODOE     TG      
+ OECC     AK      
+ OECC     CG      
+ OECD     AR      
+ OEDC     AE      
+ OEDC     OE      
+ OEFT     AK      
+ OEOE             
+ OETC     AR      
+ OETO     DAE     
+ OETO     FZG     
+ OHAD     AR      
+ OHAE             
+ OHAE     A        E       
+ OHAE     A        R       
+ OHAE     G       
+ OHAE     OR      
+ OHAE     TAE     
+ OHAM             
+ OHAR             
+ OHAR     G       
+ OHAR     TOE     
+ OHCC     O        AEG     
+ OHCC     O        R       
+ OHCG             
+ OHCO     K       
+ OHCO     RG      
+ OHCR     G       
+ OHOR     AETG    
+ OHTG             
+ OPOE     DCOR    
+ OPSC     OEAM    
+ OPTC     CAR     
+ ORAR             
+ PZOE             
+ SAEG             
+ SAEO     K       
+ SARA     E       
+ SARA     K       
+ SCAN             
+ SCCA     R       
+ SCCC     HTG     
+ SCCG             
+ SCOE             
+ SCOH     ZAK     
+ SOAR     AR      
+ SOCD     AR      
+ SODA     E       
+ SODA     E        OE      
+ SODA     R       
+ SODG             
+ SOEA     EAK     
+ SOEA     M       
+ SOEA     R       
+ SOEG             
+ SOHG             
+ SOPT     G       
+ TAEG             
+ TAEO     EDG     
+ TAIR     AE      
+ TARG             
+ TCAE             
+ TCAK             
+ TCAR             
+ TCDA     M       
+ TCDG             
+ TCDZ     G       
+ TCOC     DAR     
+ TCOE             
+ TCOE     G       
+ TCOK             
+ TCOR             
+ TCPT     CG      
+ TDAM             
+ THCG             
+ TODA     E       
+ TODC     G       
+ TODG             
+ TODZ     G       
+ TOEA     EG      
+ TOEA     M       
+ TOEF     G       
+ TOEH     AK      
+ TOER     AEG     
+ TOFT     OE      
+ TOHA     K       
+ TOHA     R       
+ TOHG             

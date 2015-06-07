@@ -1,0 +1,102 @@
+ AEDA     I        IL      
+ AEDA     I        R       
+ AEDT     G       
+ AEOE             
+ AETC     CG      
+ AFZC     G       
+ AIID     AK      
+ AIIE             
+ AIII     L       
+ AIIL             
+ AIIR             
+ AIIT     G       
+ APZC     CG      
+ ARAI     IL      
+ ARYO     R       
+ DAII     L       
+ DAIR             
+ DARA     IK      
+ DCCO     E       
+ DOED     AIR     
+ DSCC     OE      
+ DTCG             
+ DZCC     G       
+ DZCO     E       
+ EAII     L       
+ EDAI     I        L       
+ EDAI     I        R       
+ EDAI     R       
+ EDEO     R       
+ EDOE             
+ EODA     K       
+ EPAI     K       
+ ERAI     IL      
+ ETCC     G       
+ GDAI     IL      
+ GDCC     G       
+ GDCC     O       
+ GHAI     IL      
+ GSCG             
+ GTCC     G       
+ GTCC     O       
+ HAII     L       
+ HAIR             
+ HTOE     DAIIL   
+ OAII     R       
+ OAIR             
+ OCOA     R       
+ ODAE             
+ ODAI     IL      
+ ODAI     R       
+ ODAI     R        G       
+ ODAI     R        O       
+ ODCC     G       
+ ODCO     E       
+ ODOE             
+ ODSC     G       
+ ODTC     CO      
+ ODZC     G       
+ OEAR             
+ OEDA     E       
+ OEDA     IIL     
+ OEDC     COE     
+ OEPT     CCG     
+ OFAI     IR      
+ OHAE             
+ OHAI     IL      
+ OHAI     R       
+ OHAR             
+ OHCC     G       
+ OHCC     O       
+ OHEC     CG      
+ OHOR             
+ OHTC     G       
+ OHTG             
+ OIII     L       
+ OIIR             
+ OPAI     IK      
+ OPAI     R       
+ OPAI     R        AK      
+ OPAR             
+ OPOR     AIRAPG  
+ OPTC     G       
+ OPTC     O       
+ ORAE             
+ ORAI     IL      
+ ORAI     R       
+ POAR             
+ POEA     IRG     
+ PROA     IR      
+ PTOR             
+ PZTO     R       
+ RODA     IY      
+ SCCC     G       
+ SCCG             
+ SCCO             
+ SCOC             
+ TCCG             
+ TCCO             
+ TDAR             
+ THTG             
+ TOED     AE      
+ TPOR             
