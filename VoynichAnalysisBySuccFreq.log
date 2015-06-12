@@ -1,0 +1,485 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  11 JUN 2015 19:03
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**VoynichAnalysisBySuccFreq.tex
+(./VoynichAnalysisBySuccFreq.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2011/09/01 v1.2k Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+\@temptokenb=\toks14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count96
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count97
+\calc@Bcount=\count98
+\calc@Adimen=\dimen109
+\calc@Bdimen=\dimen110
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count99
+\calc@Cskip=\skip54
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@toc@title=\toks18
+\c@AM@survey=\count100
+\AM@templatesizebox=\box29
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks19
+\float@box=\box30
+\@float@everytoks=\toks20
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+\c@homeworkProblemCounter=\count102
+
+(./VoynichAnalysisBySuccFreq.aux)
+\openout1 = `VoynichAnalysisBySuccFreq.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 164.
+
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen111
+\scratchbox=\box32
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen112
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count109
+\AtBeginShipoutBox=\box33
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 168.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 168.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 168.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 183.
+
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 183.
+
+<English_CMU_Brown_dictionary_dx1_histograms.pdf, id=1, page=1, 578.16pt x 433.
+62pt>
+File: English_CMU_Brown_dictionary_dx1_histograms.pdf Graphic file (type pdf)
+ <use English_CMU_Brown_dictionary_dx1_histograms.pdf, page 1>
+Package pdftex.def Info: English_CMU_Brown_dictionary_dx1_histograms.pdf, page1
+ used on input line 206.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+<English_CMU_Brown_dictionary_dx1_histograms.pdf, id=2, page=2, 578.16pt x 433.
+62pt>
+File: English_CMU_Brown_dictionary_dx1_histograms.pdf Graphic file (type pdf)
+ <use English_CMU_Brown_dictionary_dx1_histograms.pdf, page 2>
+Package pdftex.def Info: English_CMU_Brown_dictionary_dx1_histograms.pdf, page2
+ used on input line 207.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+<English_CMU_Brown_dictionary_dx1_histograms.pdf, id=3, page=3, 578.16pt x 433.
+62pt>
+File: English_CMU_Brown_dictionary_dx1_histograms.pdf Graphic file (type pdf)
+ <use English_CMU_Brown_dictionary_dx1_histograms.pdf, page 3>
+Package pdftex.def Info: English_CMU_Brown_dictionary_dx1_histograms.pdf, page3
+ used on input line 208.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+ [1
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (21.88728pt too high) has occurred while \output is active []
+
+
+[2 <./English_CMU_Brown_dictionary_dx1_histograms.pdf> <./English_CMU_Brown_dic
+tionary_dx1_histograms.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./English_CMU_Brown_dictionary_dx1_h
+istograms.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+> <./English_CMU_Brown_dictionary_dx1_histograms.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./English_CMU_Brown_dictionary_dx1_h
+istograms.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+>] <english_dx1_histograms.pdf, id=62, page=1, 578.16pt x 433.62pt>
+File: english_dx1_histograms.pdf Graphic file (type pdf)
+
+<use english_dx1_histograms.pdf, page 1>
+Package pdftex.def Info: english_dx1_histograms.pdf, page1 used on input line 2
+14.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+<english_dx1_histograms.pdf, id=63, page=2, 578.16pt x 433.62pt>
+File: english_dx1_histograms.pdf Graphic file (type pdf)
+
+<use english_dx1_histograms.pdf, page 2>
+Package pdftex.def Info: english_dx1_histograms.pdf, page2 used on input line 2
+15.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+<english_dx1_histograms.pdf, id=64, page=3, 578.16pt x 433.62pt>
+File: english_dx1_histograms.pdf Graphic file (type pdf)
+
+<use english_dx1_histograms.pdf, page 3>
+Package pdftex.def Info: english_dx1_histograms.pdf, page3 used on input line 2
+16.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+Overfull \vbox (21.88728pt too high) has occurred while \output is active []
+
+
+[3 <./english_dx1_histograms.pdf> <./english_dx1_histograms.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./english_dx1_histograms.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./english_dx1_histograms.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./english_dx1_histograms.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>] <plots.pdf, id=106, page=1, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 1>
+Package pdftex.def Info: plots.pdf, page1 used on input line 224.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=107, page=2, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 2>
+Package pdftex.def Info: plots.pdf, page2 used on input line 225.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=108, page=3, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 3>
+Package pdftex.def Info: plots.pdf, page3 used on input line 228.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+[4 <./plots.pdf> <./plots.pdf>]
+<plots.pdf, id=119, page=4, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 4>
+Package pdftex.def Info: plots.pdf, page4 used on input line 238.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=120, page=5, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 5>
+Package pdftex.def Info: plots.pdf, page5 used on input line 242.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=121, page=6, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 6>
+Package pdftex.def Info: plots.pdf, page6 used on input line 243.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+[5 <./plots.pdf> <./plots.pdf>]
+<plots.pdf, id=125, page=7, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 7>
+Package pdftex.def Info: plots.pdf, page7 used on input line 254.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=126, page=8, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 8>
+Package pdftex.def Info: plots.pdf, page8 used on input line 255.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=127, page=9, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 9>
+Package pdftex.def Info: plots.pdf, page9 used on input line 259.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+[6 <./plots.pdf> <./plots.pdf>] [7 <./plots.pdf> <./plots.pdf>]
+<plots.pdf, id=135, page=12, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 12>
+Package pdftex.def Info: plots.pdf, page12 used on input line 277.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+[8 <./plots.pdf>] <plots.pdf, id=139, page=17, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+
+<use plots.pdf, page 17>
+Package pdftex.def Info: plots.pdf, page17 used on input line 285.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+ <plots.pdf, id=140, page=19, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+
+<use plots.pdf, page 19>
+Package pdftex.def Info: plots.pdf, page19 used on input line 292.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+ [9 <./plots.pdf> <./plots.pdf>]
+<plots.pdf, id=144, page=22, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 22>
+Package pdftex.def Info: plots.pdf, page22 used on input line 299.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+<plots.pdf, id=145, page=23, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+ <use plots.pdf, page 23>
+Package pdftex.def Info: plots.pdf, page23 used on input line 300.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+
+[10 <./plots.pdf>] <plots.pdf, id=149, page=25, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+
+<use plots.pdf, page 25>
+Package pdftex.def Info: plots.pdf, page25 used on input line 308.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+ <plots.pdf, id=150, page=26, 578.16pt x 361.35pt>
+File: plots.pdf Graphic file (type pdf)
+
+<use plots.pdf, page 26>
+Package pdftex.def Info: plots.pdf, page26 used on input line 309.
+(pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
+ [11 <./plots.pdf> <./plots.pdf>]
+
+AED: lastpage setting LastPage
+[12 <./plots.pdf> <./plots.pdf>] (./VoynichAnalysisBySuccFreq.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4311 strings out of 493488
+ 64919 string characters out of 3141326
+ 234951 words of memory out of 3000000
+ 7551 multiletter control sequences out of 15000+200000
+ 7280 words of font info for 26 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,12n,43p,904b,231s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on VoynichAnalysisBySuccFreq.pdf (12 pages, 197988 bytes).
+PDF statistics:
+ 175 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
